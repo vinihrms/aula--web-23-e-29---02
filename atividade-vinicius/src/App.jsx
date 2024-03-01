@@ -1,14 +1,21 @@
 import './App.css'
-import Navbar from './components/Navbar'
 
+//hooks
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
+//components
+import Navbar from './components/Navbar'
+
+
+//pages
 import Home from './pages/Home'
 import Dia23 from './pages/Dia23';
 import Dia29 from './pages/Dia29';
 
 
 function App() {
+
+  
 
   return (
     <>

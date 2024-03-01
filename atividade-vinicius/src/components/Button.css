@@ -1,0 +1,26 @@
+.btns {
+  display: flex;
+  padding: 0.5em 2em;
+  justify-content: space-between;
+}
+
+.btn_list {
+  display: flex;
+  list-style: none;
+}
+
+.btn_list li {
+  margin-right: 1em;
+}
+
+.btn_list button {
+  padding: 0.4em 0.6em;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #000;
+  color: #fff;
+}
