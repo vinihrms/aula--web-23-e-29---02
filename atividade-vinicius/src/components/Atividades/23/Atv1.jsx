@@ -1,8 +1,10 @@
-import "./atv1.css"
+import "./atv1.css";
 const atv1 = () => {
   return (
     <div>
-      <h2> <h1>Cores em CSS</h1>
+      <h1> Atividade 1 </h1>
+      <br />
+      <h1>Cores em CSS</h1>
       <p>
         Para entender esse exercício, olhe bem atentamente o código fonte do
         arquivo.
@@ -29,7 +31,7 @@ const atv1 = () => {
       </p>
       <h2 className="bgcolor2">
         Nesse título, o fundo azul teve sua transparência configurada para 50%
-      </h2></h2>
+      </h2  >
     </div>
   );
 };

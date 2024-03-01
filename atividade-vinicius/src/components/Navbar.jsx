@@ -20,6 +20,9 @@ const Navbar = () => {
               Atividade dia 29
             </NavLink>
           </li>
+          <li className='by'>
+            Por Vinicius.
+          </li>
         </ul>
       </nav>
   );
