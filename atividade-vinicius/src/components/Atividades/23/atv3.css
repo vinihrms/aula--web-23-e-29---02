@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico&display=swap");
+@font-face {
+  font-family: "Minha Fonte";
+  src: url("littlebird.ttf");
+}
+.container {
+  font-size: 15pt;
+}
+
+#padrao, #google, #local{
+  font-weight: normal;
+}
+
+#padrao {
+  font-family: Arial, Helvetica, sans-serif; 
+}
+
+#google {
+  font-family: "Pacifico", cursive;
+}
+
+#local {
+  font-family: "Minha Fonte", sans-serif;
+}

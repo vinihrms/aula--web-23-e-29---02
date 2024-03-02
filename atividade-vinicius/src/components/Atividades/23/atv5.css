@@ -1,0 +1,24 @@
+#area01,
+#area02,
+#area03,
+#area04,
+#area05 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: lightgray;
+  border: 1px solid black;
+}
+
+#area01 {
+  background-color: darkred;
+}
+
+#area02 {
+  background-color: darkolivegreen;
+}
+
+#area03,
+#area05 {
+  background-color: darkblue;
+}

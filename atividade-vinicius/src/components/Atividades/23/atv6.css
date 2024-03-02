@@ -1,0 +1,9 @@
+.containerIMG {
+    height: 500px;
+    background:no-repeat center/80% url("https://variety.com/wp-content/uploads/2023/11/kanye.jpg");
+    width: 100%;
+}
+
+.container3{
+    color: #fff;
+}
