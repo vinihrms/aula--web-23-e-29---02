@@ -1,0 +1,30 @@
+.maior {
+    background-color: rgb(255, 255, 255);
+    font: 13pt Arial;
+    color: black;
+    }
+    
+    .divs { 
+    width: 90%;
+    height: 400px;
+    background-color: lightgray;
+    background-image: url('../../../assets/fotoYe.jpeg');
+    border: 1px solid black;
+    }
+    
+     .area00001 {
+    background-position: left top;
+    }
+    
+     .area00002 {
+    background-position: right bottom;
+    }
+    
+     .area00003 {
+    background-position: center top;
+    }
+    
+     .area00004 {
+    background-position: center center;
+    }
+    
