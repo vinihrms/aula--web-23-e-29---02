@@ -36,6 +36,9 @@ const ToggleBTN = ({ changePage, currentPage }) => {
         <li>
           <button className={currentPage === 10 ? "active" : ""} onClick={() => changePage(10)}>Atividade 10</button>
         </li>
+        <li>
+          <button className={currentPage === 11 ? "active" : ""} onClick={() => changePage(11)}>Atividade 11</button>
+        </li>
       </ul>
     </div>
 

@@ -10,6 +10,7 @@ import Atv7 from "../components/Atividades/23/Atv7";
 import Atv8 from "../components/Atividades/23/Atv8";
 import Atv9 from "../components/Atividades/23/Atv9";
 import Atv10 from "../components/Atividades/23/Atv10";
+import Atv11 from "../components/Atividades/23/Atv11";
 
 const Dia23 = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -40,6 +41,8 @@ const Dia23 = () => {
         return<Atv9 />
       case 10:
         return <Atv10 />
+      case 11:
+        return <Atv11 />
       default:
         return null;
     }

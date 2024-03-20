@@ -21,7 +21,7 @@ const Navbar = () => {
             </NavLink>
           </li>
           <li className='by'>
-            Por Vinicius.
+            Por vncs.
           </li>
         </ul>
       </nav>
